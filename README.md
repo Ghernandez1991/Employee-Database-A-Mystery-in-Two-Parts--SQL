@@ -1,6 +1,6 @@
 Employee Database: A Mystery in Two Parts- SQL
 
-![Alt text](Images/image.PNG?raw=true "Optional Title")
+![Alt text](images/image.PNG?raw=true "Optional Title")
 
 
 Background
